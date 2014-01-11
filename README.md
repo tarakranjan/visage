@@ -67,7 +67,7 @@ gem install visage-app
 On CentOS 6, to install dependencies run:
 
 ``` bash
-sudo yum install -y ruby-rrdtool ruby ruby-devel rubygems collectd collectd-rrdtoold
+sudo yum install -y ruby-rrdtool ruby ruby-devel rubygems collectd collectd-rrdtool
 ```
 
 Then install the app with:
